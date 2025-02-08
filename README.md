@@ -109,5 +109,6 @@ This project is open source and available under the [MIT License](LICENSE).
 - **TailwindCSS:** For enabling rapid, responsive styling.
 - **Inspiration:** Drawn from the timeless allure of romance and legendary love stories.
 
+---
 
 Enjoy creating and exploring the world of **Fabled Love**. Let your imagination run wild, and feel free to add your own artistic twists!
